@@ -1,0 +1,146 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King, a proclamation, for the speedy and effectual putting in execution the act of Parliament for regulating the measures and prices of coals. William R.</title>
+            <author>England and Wales. Sovereign (1694-1702 : William III)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B31955</idno>
+            <idno type="STC">Wing W2475</idno>
+            <idno type="EEBO-CITATION">99833488</idno>
+            <idno type="PROQUEST">99833488</idno>
+            <idno type="VID">207885</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B31955)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207885)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2203:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King, a proclamation, for the speedy and effectual putting in execution the act of Parliament for regulating the measures and prices of coals. William R.</title>
+                  <author>England and Wales. Sovereign (1694-1702 : William III)</author>
+                  <author>William III, King of England, 1650-1702.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed by Charles Bill, and the executrix of Thomas Newcomb, deceas'd, printers to the Kings most excellent Majesty,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At end of text: Given at Our court at Kensington the seventh day of April, 1695. In the seventh year of Our reign.</note>
+                  <note>Steele arms 124; notation: Unkle Lord Eighteenth.</note>
+                  <note>"Recites the provisions of an Act, 16 &amp; 17 Charles II, whereby sea-coal is to be sold by the chaldron of 36 bushels heaps up, or by the hundred of 112 lb. avoirdupois, on pain of forfeiture of coals and double value thereof, half to informer, half to parish. Justices to fix prices. This Act for 3 yers expired, was revived 2 Wm. III for 7 years from 1 December 1690. Newcastle colliers allowed to have foreign sailors. Lord Mayor and Aldermen to enforce this Act and to report to Privy Council April 18." -- Steele.</note>
+                  <note>Reproduction of the original in the Antiquaries Society, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coal trade --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:207885:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>W R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MONDROIT</q>
+               </figure>By the King, A PROCLAMATION, For the Speedy and Effectual putting in Execution the Act of Parliament for Regulating the Meaſures and Prices of Coals.</head>
+            <opener>
+               <signed>WILLIAM R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by Act of Parliament made in the Sixteenth and Seventeénth Years of the Reign of Our late Royal Vnkle King <hi>Charles</hi> the Second, for avoiding the manifold Deceits, Exactions and Abuſes uſed in the Meaſures and Sales of Coals, and for preventing the like, and for the better Regulation thereof for the time to come, It was Enacted, That from and after the Sixth Day of <hi>March,</hi> which was in the Year of Our Lord, One thouſand ſix hundred ſixty and four, all Sorts of Coals, commonly called, Sea-Coals, brought into the River of <hi>Thames,</hi> and Sold, ſhould be Sold by the Chaldron, containing Six and thirty Buſhels, heaped up, and according to the Bu<g ref="char:EOLhyphen"/>ſhel Sealed for that purpoſe at <hi>Guild-Hall</hi> in <hi>London,</hi> and ſo for a greater or leſſer quantity; and that all other Sorts of Coals coming from <hi>Scotland,</hi> and other Places, commonly Sold by Weight, and not by Meaſure, ſhould be Sold by Weight after the proportion of One hundred and twelve Pounds to the Hundred of <hi>Aver du pois</hi> Weight, without any Falacy or Deceit, upon Pain of Forfeitures of all the Coals which ſhould be otherwiſe Sold or Expo<g ref="char:EOLhyphen"/>ſed to Sale by any Woodmonger or Retailer of Coals, and the Double Value thereof, to be Recovered by any Perſon or Perſons that would Proſecute for the ſame in any Court of Record, or by way of Complaint made to the Lord Mayor of <hi>London</hi> for the time being, and Iuſtices of the Peace within the City of <hi>London,</hi> and Liberties there<g ref="char:EOLhyphen"/>of, or any Two of them, or to the Iuſtices of the Peace of the ſeveral and reſpective Counties and Places where ſuch Coals ſhould be Expoſed to Sale, or any of them, who were by the ſaid Act Impowered and Required to call the Parties before them, and to Hear and Examine ſuch Complaint upon Oath, which by virtue of the ſaid Act was to be Adminiſtred by them, or any Two of them, and upon due Proof thereof made to that ſatisfaction, to Convict the Offenders, and to give Warrant under their Hands and Seals for Levying the Forfritures accordingly, the one half to and for the uſe of the Perſon or Perſons ſo Proſecuting or Complaining, and the other half to and for the uſe of the Poor, or Repair<g ref="char:EOLhyphen"/>ing of the High-ways within the ſame Pariſh, or any other adjoyning Pariſh or Pariſhes, to be appointed and apportioned by the direction of the ſaid Lord Mayor and Iuſtices, by ſuch their Warrant, as aforeſaid: And the Lord Mayor of <hi>London,</hi> and the Court of Aldermen for the time being, and the Iuſtices of Peace of the ſeveral Counties reſpectively, or any Threé or more of them, whereof One to be of the <hi>Quorum,</hi> were by the ſaid Act Impowered to ſet the Rates and Prices of all ſuch Coals as ſhould be Sold by Retail, as they from time to time ſhould judge reaſonable, allowing a competent Profit to the Retailer, beyond the Price paid by him to the Importer, and the ordinary Charges thereupon Accrewing: And that if any Iugroſſer, or Retailer of ſuch Coals ſhould refuſe to Sell, as aforeſaid, that then the ſaid Lord Mayor and Aldermen, and Iuſtices of Peace reſpectively, were by the ſaid Act Authorized to Appoint and Impower ſuch Officer or Officers, or other Perſons as they ſhould think fit, to Enter into any Wharfe, or other Place where ſuch Coals were Stored up, and in caſe of Refuſal, ta<g ref="char:EOLhyphen"/>king a Conſtable, to force Entrance, and the ſaid Coals to Sell, or cauſe to be Sold, at ſuch Rates as the ſaid Lord Mayor and Aldermen and Iuſtices reſpectively ſhould judge reaſonable, rendring to ſuch Ingroſſer or Retailer the Money for which the ſaid Coals ſhould be ſo Sold, neceſſary Charges being deducted: And by the ſaid Act proviſion is made, That no Perſon having any Intereſt in any Wharfe uſed for the Receiving or Vttering of Coals, or that ſhould Trade by himſelf, or others in his own or any other Name, in the Sale of any Coals, or the Ingroſſing the ſame in order to Sale, and not for his own private uſe only, ſhould any ways Act or Intermeddle in the Setting of the Price of Coals: Which Act being made to continue for Threé Years, did long ſince Expire, but being found to be very uſeful and beneficial to this Kingdom, was, by Act of Parliament made in the Second Year of Our Reign, continued for the ſpace of Seven Years, from the Firſt Day of <hi>December</hi> One thouſand ſix hundred and ninety, and from thence to the end of the Firſt Seſſion of Parliament then next following. And by the ſaid laſt mentioned Act it is made lawful for any Owners of Ships or Veſſels <hi>Engliſh</hi> built, and belonging to the Subjects of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> whereof the Maſter is an <hi>Engliſh</hi> Man, Trading with Coals to and from <hi>Newcaſtle,</hi> or the Parts adjacent, or any Parts of <hi>Wales</hi> to the Port of <hi>London,</hi> or any other Part of <hi>England,</hi> to Navigate the ſaid Ship or Veſſel with as many Foreign Seamen as the Maſter or Owners ſhould think fit, during the preſent War with <hi>France,</hi> and no longer, notwithſtanding the Act for Encouraging and Encreaſing of Shipping and Navigation, made in the Twelfth Year of the Reign of Our ſaid Royal Vnkle. Which good Laws being ſtill in Force, yet for want of the due and effectual Execution of the ſame, the Prices of Coals are now Vnreaſonably and Exceſſively Heightned, to the great prejudice of Our good Subjects; We have therefore out of Our Princely Wiſdom and Tender Compaſſion and Care for the good of Our Subjects, thought fit, by and with the Advice of Our Privy Counvil, to Iſſue this Our Royal Proclamation, and We do hereby ſtraitly Charge and Com<g ref="char:EOLhyphen"/>mand, as well the Lord Mayor, Aldermen, and Iuſtices of the Peace of and for Our City of <hi>London,</hi> as alſo all other Iuſtices of the Peace, Chief Magiſtrates and Officers reſpectively, That they and every of them in their reſpective Places and Stations, and within their reſpe<g ref="char:EOLhyphen"/>ctive Iuriſdictions, do forthwith, and without any Delay, put in due and effectual Execution the ſaid Act for Regulating the Meaſures and Prices of Coals, and all the Powers and Authorities thereby Given and Granted to the ſaid Lord Mayor, Aldermen, and Iuſtices of Peace reſpectively, within their reſpective Iuriſdictions, according to the Tenor and Intent of the ſaid Act; And that frequent Meetings, as well in Publick and Private Seſſions, as otherwiſe, be for that purpoſe Had and Appointed. And Our further Pleaſure is, and We do hereby Com<g ref="char:EOLhyphen"/>mand, That there be a Preſent and Punctual Obſervation of this Our Royal Command; And that the ſaid Lord Mayor, Aldermen and Iuſtices reſpectively, do give an Account of their Proceédings in the Premiſſes unto Vs, and Our Privy Council, on or before the Eighteénth <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay of this Inſtant <hi>April,</hi> as they tender Our Diſpleaſure, and will anſwer the Contrary at their Perils.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at <hi>Kenſington</hi> 
+                     <date>the Seventh Day of <hi>April,</hi> 1695. In the Seventh Year of Our Reign.</date>
+                  </hi>
+               </dateline>
+            </closer>
+            <closer>God ſave the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London</hi> Printed by <hi>Charles Bill,</hi> and the Executrix of <hi>Thomas Newcomb</hi> deceas'd, Printers to the Kings moſt Excellent Majeſty. 1695.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
